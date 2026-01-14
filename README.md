@@ -4,6 +4,8 @@ Zuban Sense is a **Chrome extension** that helps users instantly translate words
 
 ---
 
+**Author:** Mohammed Furqan Siddiq  
+
 ## Overview
 
 While reading content online, users often encounter unfamiliar words. Zuban Sense simplifies language learning by providing instant translations, meanings, and usage examples directly inside the browser.  
@@ -63,4 +65,3 @@ Zuban Sense/
 └── README.md              # Project documentation
 
 
-Author:Mohammed Furqan Siddiq
